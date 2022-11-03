@@ -1,0 +1,22 @@
+{
+  "firstname": "Tarun",
+  "lastname": "Jamwal",
+  "friends": [
+    {
+      "name": "Ram",
+      "age": "18"
+    },
+    {
+      "name": "Lakshman",
+      "age": "16"
+    },
+    {
+      "name": "Sita",
+      "age": "17"
+    }
+  ],
+  "city": "Mandi",
+  "pincode": "175001",
+  "state" : "Himachal Pradesh"
+
+}
